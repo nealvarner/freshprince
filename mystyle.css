@@ -1,0 +1,12 @@
+h1 {
+    color:red;
+    font: bold italic large serif
+}
+body {
+    color:blue;
+    text-align: center;
+    background-color: gray;
+}
+ul {
+    color: black;
+}
